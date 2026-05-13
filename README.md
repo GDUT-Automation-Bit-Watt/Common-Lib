@@ -29,9 +29,8 @@ The goal is to avoid duplicated code and establish a unified engineering framewo
 ## Folder Structure
 
 ```text
-src/        source code
-include/    headers
-docs/       documents
-test/       test code
-tools/      helper scripts
-
+```text
+src/      source code
+docs/     notes and documents
+hardware/ schematics and PCB
+test/     testing code
